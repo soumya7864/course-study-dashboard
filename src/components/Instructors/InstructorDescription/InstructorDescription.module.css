@@ -1,0 +1,127 @@
+.InstructorDescription {
+  padding: 1rem;
+}
+.socialIcons {
+  display: flex;
+}
+.socialIcons img {
+  width: 30px;
+  height: 30px;
+  padding: 10px;
+}
+.coursesInfo {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  align-items: center;
+}
+.coursesInfo img {
+  height: 100px;
+  width: 100px;
+}
+.coursesInfo p {
+  color: #616161;
+  font-size: 21px;
+  font-weight: 480;
+}
+.courseContainer {
+  display: flex;
+  text-align: center;
+}
+.headerDiv {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #dcdcdb;
+}
+.headerDiv p {
+  font-size: 40px;
+}
+.statDiv {
+  display: table;
+  margin-left: 100px;
+}
+.stats {
+  text-align: left;
+  margin-right: 70px;
+}
+.stats h1 {
+  font-size: 65px;
+  font-weight: 400;
+  margin: 0px;
+}
+.stats p {
+  margin-top: 0px;
+  color: #616161;
+  font-size: 21px;
+  font-weight: 480;
+  letter-spacing: 1px;
+}
+.description p {
+  font-size: 20px;
+  letter-spacing: 1px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-align: left;
+}
+.statsInnerDiv {
+  display: flex;
+  margin-bottom: 40px;
+}
+.avatar {
+  width: 100px;
+  height: 100px;
+}
+.infoDiv {
+  padding: 2rem;
+  margin-left: 50px;
+}
+.videoImg {
+  margin-right: 50px;
+  width: 34%;
+}
+.upperMarginDiv {
+  padding: 46px;
+}
+.technicalDiv {
+  text-align: left;
+  margin-left: 100px;
+}
+.technicalDiv p {
+  letter-spacing: 1px;
+  font-size: 24px;
+  text-align: initial;
+  font-weight: 600;
+}
+.fixedText {
+  margin-top: 80px;
+  margin-left: 10px;
+  letter-spacing: 1px;
+  font-size: 24px;
+  text-align: initial;
+  font-weight: 600;
+  margin-bottom: 0;
+}
+.description {
+  padding: 6rem;
+  letter-spacing: 1px;
+}
+.description h1 {
+  font-weight: 600;
+  font-size: 25px;
+}
+.description p {
+  color: #919191;
+  letter-spacing: 2px;
+}
+.tagDiv,
+.aboutDiv {
+  text-align: left;
+  margin-bottom: 60px;
+}
+.tagDiv p {
+  margin: 0 8px;
+}
+.aboutDiv p {
+  margin: 0 8px;
+}

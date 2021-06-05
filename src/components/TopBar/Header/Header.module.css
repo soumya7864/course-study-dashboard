@@ -1,0 +1,33 @@
+.Header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Header h1 {
+  font-size: 40px;
+  color: rgb(60, 105, 145);
+  margin-left: 130px;
+}
+.Header img {
+  width: 48px;
+  height: 48px;
+}
+.innerDiv {
+  display: flex;
+  width: 28%;
+  justify-content: space-around;
+}
+.innerDiv p {
+  font-size: 22px;
+  color: rgb(45, 39, 73);
+  font-weight: 400;
+  margin-top: 10px;
+}
+.person {
+  width: 50%;
+  display: flex;
+}
+.person p {
+  margin-right: 30px;
+}

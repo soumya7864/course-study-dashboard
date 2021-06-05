@@ -1,0 +1,9 @@
+.main {
+  width: 91%;
+}
+.mainDiv {
+  height: 100%;
+}
+.containDiv {
+  display: flex;
+}

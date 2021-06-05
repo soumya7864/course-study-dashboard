@@ -1,0 +1,38 @@
+.Modules {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
+.Modules h1 {
+  font-size: 34px;
+  font-weight: 700;
+  color: #3f464c;
+  text-align: left;
+  margin-left: 50px;
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
+.ModuleItem {
+  display: flex;
+  padding-left: 45px;
+  align-items: center;
+  padding-bottom: 24px;
+  padding-top: 18px;
+  cursor: pointer;
+}
+.ModuleItem img {
+  width: 56px;
+  height: 56px;
+  margin-right: 20px;
+}
+.ModuleItem h2 {
+  color: rgb(8, 45, 80);
+  text-align: initial;
+  font-weight: 700;
+  margin-bottom: 0;
+  cursor: pointer;
+  margin-top: 0px;
+}
+.ModuleItem:hover {
+  background-color: #a7b0b8;
+}

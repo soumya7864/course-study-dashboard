@@ -1,0 +1,57 @@
+.CandidateCourseStat {
+  border: 1px solid rgb(137, 137, 218);
+  border-left: none;
+  padding: 4rem;
+  padding-bottom: 3rem;
+  text-align: initial;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.CandidateCourseStat h1 {
+  font-size: 30px;
+  font-weight: 500;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+.date {
+  margin-top: 0px;
+  color: rgb(127, 131, 134);
+}
+.CandidateCourseStat span {
+  display: flex;
+}
+.CandidateCourseStat h2 {
+  color: blue;
+  font-size: 30px;
+  font-weight: 400;
+  margin-bottom: 0px;
+}
+.quiz {
+  color: rgb(127, 131, 134);
+}
+.time {
+  color: rgb(29, 110, 165);
+  margin-left: 50px;
+}
+.footer {
+  padding-top: 39%;
+}
+.footer p {
+  color: rgb(127, 131, 134);
+  letter-spacing: 1px;
+  margin-left: 32px;
+}
+.footer button {
+  width: 90%;
+  background-color: rgb(1 127 187);
+  border-radius: 22px;
+  border: none;
+  padding: 10px;
+  color: white;
+  font-size: 17px;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgb(85, 81, 81);
+}
+.card {
+  margin: 0;
+}

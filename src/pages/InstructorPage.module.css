@@ -1,0 +1,23 @@
+.Instructors {
+  display: flex;
+  min-height: 100vh;
+}
+.instructorItem {
+  width: 25%;
+  background-color: rgb(219, 225, 231);
+}
+.instructorDescription {
+  background-color: rgb(228, 241, 239);
+  width: 100%;
+  padding: 2rem;
+}
+.loadData {
+  margin-top: 200px;
+}
+.loadData p {
+  letter-spacing: 1px;
+  font-size: 22px;
+  color: rgb(8, 45, 80);
+  margin-bottom: 40px;
+  font-weight: 600;
+}

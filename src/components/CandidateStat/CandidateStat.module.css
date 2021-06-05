@@ -1,0 +1,105 @@
+.CandidateStat {
+  display: flex;
+  margin-left: 60px;
+}
+.view {
+  color: #2174bd;
+  font-size: 22px;
+  font-weight: 800;
+  text-align: end;
+  margin: 0px;
+  margin-right: 42px;
+  cursor: pointer;
+}
+.divContainer h1 {
+  color: rgb(16, 47, 71);
+  text-align: initial;
+  font-size: 48px;
+  font-weight: 600;
+  margin-left: 8%;
+  margin-top: 6%;
+}
+.leftContainer {
+  border: 1px solid rgb(137, 137, 218);
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  padding: 5rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  width: 455px;
+}
+.CandidateStat h1 {
+  font-size: 36px;
+  text-align: initial;
+  font-weight: 600;
+  color: rgb(31, 35, 71);
+  margin-left: -5px;
+}
+.CandidateStat Card {
+  margin: 0px;
+}
+.upperDiv {
+  display: flex;
+}
+.icon {
+  width: 100px;
+  height: 100px;
+}
+.avatar {
+  height: 50px;
+  width: 50px;
+}
+.innerDiv {
+  display: flex;
+  margin-left: 4px;
+  margin-top: 0;
+}
+.innerDiv img {
+  width: 46px;
+  height: 46px;
+}
+.innerDiv p {
+  margin-left: 16px;
+  color: #231b94;
+  font-size: 24px;
+  margin-top: 8px;
+}
+.divContainer {
+  display: flex;
+  flex-direction: column;
+  text-align: initial;
+}
+.nameDiv {
+  margin-left: 30px;
+  font-size: 30px;
+  letter-spacing: 1px;
+  margin-top: 12px;
+  color: #0e2c46;
+  margin-bottom: 10px;
+}
+.nameDiv p {
+  margin-bottom: 4px;
+  margin-top: 0;
+  margin-left: 10px;
+}
+.progress,
+.liveSession,
+.assignments,
+.quiz {
+  display: flex;
+  justify-content: space-between;
+}
+.statProgbar {
+  width: 62%;
+}
+.statProgbar p {
+  margin-bottom: 4px;
+  color: #29bac4;
+}
+.progP {
+  margin-top: 30px;
+  font-weight: 500;
+  font-size: 18px;
+  color: #717375;
+  letter-spacing: 1px;
+}

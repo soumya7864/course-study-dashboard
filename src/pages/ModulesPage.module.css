@@ -1,0 +1,23 @@
+.moduleItem {
+  background-color: rgb(219, 225, 231);
+  width: 21%;
+  padding-bottom: 13rem;
+  min-height: 100vh;
+}
+.moduleDescription {
+  background-color: rgb(228, 241, 239);
+  width: 79%;
+}
+.ModulesPage {
+  display: flex;
+}
+.loadData {
+  margin-top: 200px;
+}
+.loadData p {
+  letter-spacing: 1px;
+  font-size: 22px;
+  color: rgb(8, 45, 80);
+  margin-bottom: 40px;
+  font-weight: 600;
+}

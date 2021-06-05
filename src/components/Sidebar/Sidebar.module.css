@@ -1,0 +1,74 @@
+.nav {
+  width: 9%;
+  background-color: rgb(8, 45, 80);
+}
+.sidebarUl {
+  height: 100vh;
+}
+.sidebarUl p {
+  color: white;
+  font-size: 18px;
+  font-weight: 400;
+}
+.sidebarUl img {
+  width: 48px;
+  height: 48px;
+}
+.sidebarUlitemsHome,
+.sidebarUlitemsModule,
+.sidebarUlitemsInstructor {
+  padding-top: 20px;
+  padding-bottom: 2px;
+  cursor: pointer;
+}
+.homeActive {
+  background-color: rgb(210, 213, 223);
+}
+.homeActive p {
+  color: rgb(8, 45, 80);
+  font-weight: 600;
+}
+.homeActive img {
+  content: url("../../assets/home-dark.svg");
+}
+.moduleActive {
+  background-color: rgb(210, 213, 223);
+}
+.moduleActive p {
+  color: rgb(8, 45, 80);
+  font-weight: 600;
+}
+.moduleActive img {
+  content: url("../../assets/modules-dark.svg");
+}
+.instructorActive {
+  background-color: rgb(210, 213, 223);
+}
+.instructorActive p {
+  color: rgb(8, 45, 80);
+  font-weight: 600;
+}
+.instructorActive img {
+  content: url("../../assets/instructors-dark.svg");
+}
+
+.sidebarUlitemsHome:hover,
+.sidebarUlitemsModule:hover,
+.sidebarUlitemsInstructor:hover {
+  background-color: rgb(210, 213, 223);
+}
+.sidebarUlitemsHome:hover p,
+.sidebarUlitemsModule:hover p,
+.sidebarUlitemsInstructor:hover p {
+  color: rgb(8, 45, 80);
+  font-weight: 600;
+}
+.sidebarUlitemsHome:hover img {
+  content: url("../../assets/home-dark.svg");
+}
+.sidebarUlitemsModule:hover img {
+  content: url("../../assets/modules-dark.svg");
+}
+.sidebarUlitemsInstructor:hover img {
+  content: url("../../assets/instructors-dark.svg");
+}

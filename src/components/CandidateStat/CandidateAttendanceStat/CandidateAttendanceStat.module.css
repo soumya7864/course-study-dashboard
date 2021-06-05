@@ -1,0 +1,49 @@
+.CandidateAttendanceStat {
+  padding: 3rem;
+}
+.CandidateAttendanceStat h1 {
+  font-size: 34px;
+  font-weight: 400;
+  text-align: initial;
+  margin-bottom: 40px;
+}
+.CandidateAttendanceStatP {
+  text-align: initial;
+  color: #6363e0;
+  font-size: 20px;
+  font-weight: 800;
+  cursor: pointer;
+  margin-bottom: 12px;
+}
+.overview,
+.attendance {
+  border: 1px solid blue;
+  border-radius: 10px;
+}
+.overview span,
+.attendance span {
+  display: flex;
+  justify-content: space-between;
+}
+.attendance {
+  margin-top: 50px;
+  margin-bottom: 45px;
+}
+.attendanceP,
+.overviewP {
+  font-size: 38px;
+  margin-left: 16px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.overviewOG,
+.attendanceA {
+  font-size: 20px;
+  letter-spacing: 1px;
+  margin-right: 10px;
+  margin-top: 24px;
+}
+.progressbar {
+  margin-left: 12px;
+  margin-right: 12px;
+}

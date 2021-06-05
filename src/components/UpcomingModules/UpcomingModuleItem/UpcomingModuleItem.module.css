@@ -1,0 +1,60 @@
+.introDiv {
+  display: flex;
+  padding: 3rem;
+  padding-bottom: 0;
+  min-width: 280px;
+  min-height: 105px;
+  max-height: 105px;
+}
+.UpcomingModuleItem {
+  display: flex;
+}
+.introDiv img {
+  height: 80px;
+  width: 80px;
+}
+.innerDiv img {
+  width: 42px;
+  height: 42px;
+}
+.statDiv {
+  display: flex;
+}
+.introDivName {
+  display: flex;
+  flex-direction: column;
+}
+.introDivName p {
+  margin-left: 30px;
+  margin-top: 12px;
+  letter-spacing: 1px;
+  font-size: 24px;
+  font-weight: 600;
+  color: rgb(29, 45, 58);
+  text-align: initial;
+  margin-bottom: 5px;
+  margin-top: 0;
+}
+.innerDiv {
+  display: flex;
+  margin-left: 25px;
+}
+.innerDiv p {
+  margin-left: 10px;
+  color: rgb(81, 116, 230);
+  margin-top: 0;
+}
+.statDiv {
+  justify-content: space-around;
+  padding-bottom: 15px;
+}
+.statDivContent {
+  font-size: 56px;
+  margin: 0;
+  font-weight: 300;
+  color: rgb(8, 18, 32);
+}
+.statDivText {
+  font-size: 18px;
+  margin: 0px;
+}

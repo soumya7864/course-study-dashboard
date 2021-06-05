@@ -1,0 +1,16 @@
+.UpcomingModuleItems {
+  display: flex;
+}
+.UpcomingModule {
+  padding: 3rem;
+}
+.UpcomingModule h1 {
+  color: rgb(16, 47, 71);
+  text-align: initial;
+  font-size: 40px;
+  font-weight: 500;
+  margin-left: 26px;
+}
+.paginate {
+  padding-top: 20px;
+}

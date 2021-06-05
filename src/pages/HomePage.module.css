@@ -1,0 +1,15 @@
+.HomePage {
+  background-color: rgb(228, 241, 239);
+  min-height: 100vh;
+}
+.candiadteItem {
+  display: flex;
+  /* width: 70%; */
+}
+.candidateAttend {
+  width: 30%;
+  margin-top: 192px;
+}
+.leftContent {
+  width: 70%;
+}

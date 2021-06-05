@@ -1,0 +1,145 @@
+.MetaStrip {
+  background-color: rgb(8, 45, 80);
+  height: 100px;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  align-items: center;
+  width: 100%;
+}
+.allTests {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+}
+.MetaStrip p {
+  font-size: 26px;
+  font-weight: 450;
+}
+.MetaStrip h2 {
+  font-size: 30px;
+  font-weight: 600;
+  margin-left: 60px;
+}
+.dummyTest {
+  width: 100%;
+  justify-content: space-between;
+}
+.testContainer {
+  display: flex;
+  margin-left: 130px;
+  cursor: pointer;
+}
+.Progressbar {
+  width: 20%;
+  margin-right: 20px;
+  margin-left: auto;
+}
+.Progressbar p {
+  text-align: right;
+  font-size: 30px;
+  margin-bottom: 8px;
+  margin-left: 130px;
+}
+.testDatas {
+  background-color: rgb(8, 45, 80);
+  width: 100%;
+  color: white;
+}
+.testDatas p {
+  margin: 0;
+  font-size: 19px;
+  font-weight: 350;
+  text-align: initial;
+  margin-left: 130px;
+  margin-bottom: 18px;
+}
+.testDatas ul {
+  list-style: none;
+  font-size: 26px;
+  font-weight: 450;
+  display: flex;
+  margin: 0;
+  height: 75px;
+  width: 44%;
+  margin-left: 10px;
+  justify-content: space-evenly;
+}
+.remainTest {
+  cursor: pointer;
+  color: white;
+}
+.firstTest {
+  background-color: #e0e4e6;
+  color: #2d3135;
+  border-radius: 6px;
+  height: 40px;
+  width: 24%;
+  font-weight: 600;
+  cursor: pointer;
+}
+.Text {
+  display: flex;
+  align-items: center;
+  margin-left: 65px;
+  cursor: pointer;
+  margin-top: -10px;
+}
+.progressBar {
+  margin-left: auto;
+  width: 21%;
+  margin-right: 50px;
+}
+.progressBar p {
+  font-size: 26px;
+  margin-bottom: 15px;
+}
+.Text p {
+  display: flex;
+  align-items: center;
+  font-size: 22px;
+}
+.title {
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 15px;
+  margin-left: 150px;
+}
+.centered {
+  background-color: rgb(8, 45, 80);
+  color: white;
+  margin-bottom: 16px;
+}
+.centered p {
+  font-size: 20px;
+  text-align: left;
+  margin-bottom: -20px;
+  margin-left: 106px;
+}
+.Program {
+  background-color: rgb(8, 45, 80);
+  height: 80px;
+  color: white;
+  font-size: 24px;
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  align-items: center;
+  font-weight: 500;
+  margin-left: 46px;
+  margin-bottom: -36px;
+}
+.Program li {
+  margin-right: 90px;
+  margin-left: 20px;
+  margin-top: -5px;
+  cursor: pointer;
+}
+.firstProgram {
+  background-color: rgb(241, 237, 237);
+  padding: 5px 12px;
+  border-radius: 10px;
+  cursor: pointer;
+  color: rgb(8, 45, 80);
+}
